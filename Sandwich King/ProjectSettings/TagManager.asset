@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ingredient
+  - Plate
+  - Serve
+  - Discard
+  - Table
+  - Customer
+  - Copy
+  - Data
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3607940181
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Table
+    uniqueID: 3308052843
+    locked: 0
+  - name: Plate
+    uniqueID: 1993023883
+    locked: 0
+  - name: Ingredients
+    uniqueID: 3272603589
+    locked: 0
+  - name: boom
+    uniqueID: 2048480507
+    locked: 0
